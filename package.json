@@ -1,0 +1,18 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chaht",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-oauth2-server": "^2.4.0",
+    "pg": "^8.10.0"
+  }
+}
